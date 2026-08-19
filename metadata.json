@@ -1,0 +1,6 @@
+{
+  "name": "DIM$PRAT Official",
+  "description": "Official website and underground hub for DIM$PRAT featuring live events, visual plugins, cyber-streetwear merch, and community portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
