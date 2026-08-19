@@ -1,3 +1,5 @@
+'use client';
+
 import React, { useState, useRef } from 'react';
 import { motion, useScroll, useTransform } from 'motion/react';
 import { Disc3, ShoppingBag, Sparkles, Play, Plus, Check, Star, Download, ExternalLink, ShieldCheck, Tag } from 'lucide-react';

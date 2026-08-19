@@ -1,3 +1,5 @@
+'use client';
+
 import React, { useState } from 'react';
 import { motion } from 'motion/react';
 import { Send, Check, Shield, Globe, Instagram, Github, Youtube, Music, Radio, Sparkles } from 'lucide-react';

@@ -1,3 +1,5 @@
+'use client';
+
 import React, { useRef } from 'react';
 import { motion, useScroll, useTransform } from 'motion/react';
 import { Terminal, Shield, Award, Cpu, Music, MapPin, Zap } from 'lucide-react';

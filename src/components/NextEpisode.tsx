@@ -1,3 +1,5 @@
+'use client';
+
 import React, { useState, useEffect, useRef } from 'react';
 import { motion, useScroll, useTransform } from 'motion/react';
 import { Calendar, MapPin, Clock, Camera, Users, PlusCircle, Ticket, Flame, Volume2, Sparkles, ArrowRight, Shield } from 'lucide-react';
